@@ -1,11 +1,12 @@
 # TheAccountant
-My solution for The Accountant contest on CodinGames in which I placed 158th out of 2328
+My solution for The Accountant contest on CodinGames in which I placed 157th out of 6214
+https://www.codingame.com/leaderboards/challenge/the-accountant/global
 
 The solution consists of a search algorithm with pruning.
 
 For each depth a list of candidate moves are generated.
 
-The moves are the following:
+The moves are the following:https://www.codingame.com/leaderboards/challenge/the-accountant/global
   
   -For the 4 most dangerous enemies:
     
